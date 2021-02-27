@@ -33,4 +33,4 @@ Not working :
 When use DP Cable connect to a monitor,there is no Audio output(Internal Speaker working well)
 This may be caused by wrongly configured UHD630 driver
 
-![](/Users/experienced/Lenovo-P340-Tiny-Hackintosh/sample.png)
+![](sample.png)
