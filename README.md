@@ -29,3 +29,5 @@ do BIOS setup
 
 3.Security->Secure Boot->Secure Boot ->Disable
 
+Not working :
+When use DP Cable connect to a monitor,there is no Audio output(Internal Speaker working well)
