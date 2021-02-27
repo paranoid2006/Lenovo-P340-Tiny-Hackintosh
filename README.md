@@ -30,4 +30,5 @@ do BIOS setup
 3.Security->Secure Boot->Secure Boot ->Disable
 
 Not working :
-When use DP Cable connect to a monitor,there is no Audio output(Internal Speaker working well. Connect audiobox directly to P340 front audio is working)
+When use DP Cable connect to a monitor,there is no Audio output(Internal Speaker working well)
+This may be caused by wrongly configured UHD630 driver
